@@ -1,4 +1,4 @@
-# Curso de TypeScript
+# Formação TypeScript Fullstack Developer
 ```
 Modulos do Curso
 
